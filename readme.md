@@ -4,6 +4,10 @@ A clean and responsive restaurant website built as a beginner-friendly front-end
 
 DeDelicio presents a simple food-ordering experience where visitors can explore the menu, view special deals, learn more about the restaurant, and use basic pages such as login and cart.
 
+## 🔗 Live Demo
+
+View Live Website: bootstrap-project-dedelicio.netlify.app
+
 ## ✨ Features
 
 - Responsive restaurant landing page
