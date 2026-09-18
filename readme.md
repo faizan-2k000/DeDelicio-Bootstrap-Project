@@ -35,6 +35,27 @@ DeDelicio presents a simple food-ordering experience where visitors can explore 
 
 ```text
 DeDelicio-Bootstrap-Project/
+├── assets/
+│   ├── 11.jpg
+│   ├── 12.PNG
+│   ├── 14.png
+│   ├── 15.jpg
+│   ├── 16.jpg
+│   ├── 17.png
+│   ├── deal.9.jpg
+│   ├── deal1.jpg
+│   ├── deal5.png
+│   ├── deal6.png
+│   ├── deal8.jpg
+│   ├── deal9.jpg
+│   ├── dealb.png
+│   ├── dealf.jpg
+│   ├── dealr.jpg
+│   ├── Estelle-Mothers-Day-1024x683.jpg
+│   ├── explore.png
+│   ├── logo.png
+│   ├── manu.png
+│   └── qw.png
 ├── index.html
 ├── menu.html
 ├── cart.html
@@ -43,7 +64,7 @@ DeDelicio-Bootstrap-Project/
 ├── privacy.html
 ├── box.html
 ├── style.css
-└── image assets
+└── readme.md
 ```
 
 ## 🎯 Learning Goals
