@@ -6,7 +6,7 @@ DeDelicio presents a simple food-ordering experience where visitors can explore 
 
 ## 🔗 Live Demo
 
-View Live Website: bootstrap-project-dedelicio.netlify.app
+https://bootstrap-project-dedelicio.netlify.app
 
 ## ✨ Features
 
