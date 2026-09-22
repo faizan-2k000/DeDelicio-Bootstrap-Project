@@ -40,26 +40,7 @@ https://bootstrap-project-dedelicio.netlify.app
 ```text
 DeDelicio-Bootstrap-Project/
 ├── assets/
-│   ├── 11.jpg
-│   ├── 12.PNG
-│   ├── 14.png
-│   ├── 15.jpg
-│   ├── 16.jpg
-│   ├── 17.png
-│   ├── deal.9.jpg
-│   ├── deal1.jpg
-│   ├── deal5.png
-│   ├── deal6.png
-│   ├── deal8.jpg
-│   ├── deal9.jpg
-│   ├── dealb.png
-│   ├── dealf.jpg
-│   ├── dealr.jpg
-│   ├── Estelle-Mothers-Day-1024x683.jpg
-│   ├── explore.png
-│   ├── logo.png
-│   ├── manu.png
-│   └── qw.png
+│   ├── ...
 ├── index.html
 ├── menu.html
 ├── cart.html
@@ -81,15 +62,6 @@ This project helped me practice:
 - Creating navigation between web pages
 - Designing a restaurant-themed user interface
 
-## 🔮 Future Improvements
-
-- Add JavaScript-based cart functionality
-- Add real menu filtering and search
-- Connect login and ordering forms to a backend
-- Add form validation and user feedback
-- Improve accessibility and keyboard navigation
-- Deploy the project with GitHub Pages
-- Add a fully functional checkout experience
 
 ## 📜 License
 
